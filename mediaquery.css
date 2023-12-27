@@ -1,0 +1,8 @@
+@media (max-width=800px){
+    .intro h1{
+        font-size: 30px;
+    }
+    .intro h1 span{
+        font-size: 40px;
+    }
+}
